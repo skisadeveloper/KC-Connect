@@ -9,7 +9,7 @@ A high-fidelity interactive web prototype for the Kabadiwala Connect hackathon s
 
 ## 🚀 Running the Prototype
 
-Simply open `index.html` in any modern browser (Chrome recommended).
+Simply open `index.html` or visit: https://skisadeveloper.github.io/KC-Connect/ in any modern browser (Chrome recommended).
 
 No build tools, no server, no dependencies to install.
 
